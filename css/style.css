@@ -1,0 +1,35 @@
+#ccl{
+    cursor: pointer;
+    font-size: 30px;
+}
+
+#ccl a{
+    color: #ffff;
+}
+
+#ccl a:hover{
+    color: rgb(62, 41, 122);
+}
+
+
+#h2{
+    font-size: 100px;
+}
+
+#text {
+    font-size: 22px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.line{
+    border-bottom: 2px solid rgb(255, 252, 252);
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/c6/de/80/c6de80af34ae94a0cc6c0c7dbda4c085.jpg);
+    background-blend-mode: multiply;
+    background-color: #2e3a44;
+    background-size: cover;
+    color: #fff;
+  }
